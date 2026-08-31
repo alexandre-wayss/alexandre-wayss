@@ -160,15 +160,8 @@ I enjoy learning how software is structured beyond the interface — from applic
 
 <br/>
 
-<div align="center">
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=alexandre-wayss&bg_color=0D1117&color=F5F5F7&line=FF453A&point=FFFFFF&area=true&area_color=FF453A&hide_border=true"
-  alt="GitHub Activity Graph"
-/>
 
-</div>
 ---
 
 ## Connect
