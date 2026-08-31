@@ -143,15 +143,15 @@ I enjoy learning how software is structured beyond the interface — from applic
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=alexandre-wayss&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF453A&icon_color=FF453A&text_color=F5F5F7&ring_color=FF453A"
-  alt="Alexandre Wayss GitHub stats"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=alexandre-wayss&show_icons=true&hide_border=true&title_color=FF453A&icon_color=FF453A&text_color=FFFFFF&bg_color=0D1117"
+  alt="GitHub Stats"
 />
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-wayss&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF453A&text_color=F5F5F7"
-  alt="Top languages"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-wayss&layout=compact&hide_border=true&title_color=FF453A&text_color=FFFFFF&bg_color=0D1117"
+  alt="Top Languages"
 />
 
 </div>
@@ -161,9 +161,9 @@ I enjoy learning how software is structured beyond the interface — from applic
 <div align="center">
 
 <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=alexandre-wayss&bg_color=0D1117&color=FFFFFF&line=FF453A&point=FF453A&area=true&hide_border=true"
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=alexandre-wayss&bg_color=0D1117&color=F5F5F7&line=FF453A&point=FF453A&area=true&area_color=FF453A&hide_border=true"
-  alt="GitHub activity graph"
+  alt="Activity Graph"
 />
 
 </div>
