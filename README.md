@@ -1,191 +1,58 @@
-<!-- =========================================================
-  Alexandre Wayss — GitHub Profile README
-  Style: Apple-inspired futuristic / dark / red accent
-========================================================= -->
+# Alexandre Wayss
 
-<div align="center">
+**Estudante de Ciência da Computação | Foco em desenvolvimento backend Java**
 
-<img src="./assets/banner.gif" width="100%" alt="Alexandre Wayss animated banner" />
+[LinkedIn](https://www.linkedin.com/in/alexandre-wayss-181330266/) · [Roadmap de estudos](https://github.com/alexandre-wayss/engineering-roadmap) · [Exercícios Java](https://github.com/alexandre-wayss/java-exercises)
 
-<br/>
+Sou estudante de Ciência da Computação na **UNIJUÍ** e técnico em Informática para Internet pelo **CTISM (2021–2023)**. Estou construindo uma base sólida em Java e engenharia de software, com o objetivo de desenvolver aplicações backend e avançar, gradualmente, para **AWS, infraestrutura em nuvem e SRE**.
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=24&duration=2800&pause=900&color=FF453A&center=true&vCenter=true&width=900&lines=Alexandre+Wayss;Software+Developer;Computer+Science+Student;Kotlin+Developer;Currently+learning+Swift"
-  alt="Typing animation"
-/>
+Minha jornada combina estudos documentados, exercícios e projetos pessoais e acadêmicos. Além do foco atual em Java, desenvolvo aplicações web e desktop que me permitem praticar organização de código, persistência de dados e manutenção de funcionalidades.
 
-<br/>
+## Foco atual
 
-<a href="https://github.com/alexandre-wayss">
-  <img src="https://img.shields.io/badge/GitHub-alexandre--wayss-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+- Consolidar os fundamentos de **Java**: tipos de dados, operadores, condicionais, repetição e métodos.
+- Avançar em arrays e strings, construir uma aplicação de terminal integradora e seguir para orientação a objetos.
+- Estudar **Linux** como parte da base para backend e infraestrutura.
+- Registrar o aprendizado em anotações e exercícios, acompanhando a evolução com Git, GitHub e o roadmap.
 
-<a href="https://www.linkedin.com/in/alexandre-wayss-181330266/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FF453A" alt="LinkedIn" />
-</a>
+## Tecnologias na prática
 
-</div>
+Estas tecnologias aparecem nos meus exercícios e projetos, em diferentes níveis de aprofundamento:
 
-<br/>
+| Contexto | Tecnologias e ferramentas utilizadas |
+| --- | --- |
+| Estudos de Java | Java, IntelliJ IDEA, Git e GitHub |
+| Aplicações web | JavaScript, TypeScript, React, Vite, HTML e CSS |
+| Aplicações desktop | Electron no masterStudy; Swift e SwiftUI no Brisa |
+| Persistência e integração | localStorage no VolumeLab; integração com Supabase no masterStudy |
+| Projeto acadêmico de IoT | C++ com Arduino, ESP32, sensor DHT22 e LoRaWAN |
 
----
+## Projetos e estudos em destaque
 
-## About Me
+| Repositório | O que estou construindo ou praticando |
+| --- | --- |
+| [java-exercises](https://github.com/alexandre-wayss/java-exercises) | Exercícios de fundamentos de Java, incluindo terminal bancário, simulador financeiro e cálculo de folha. A prática publicada está concentrada no módulo de fundamentos. |
+| [engineering-roadmap](https://github.com/alexandre-wayss/engineering-roadmap) | Plano de estudos de engenharia de software, backend, Cloud e SRE, com trilha de Java, anotações e links para exercícios. |
+| [masterStudy](https://github.com/masterCorehub/masterStudy) | Aplicação web e desktop para organizar disciplinas, tarefas, livros, notas e revisões. Utiliza React, Vite e Electron, com integração com Supabase e ferramentas de estudo com IA. |
+| [Brisa](https://github.com/masterCorehub/brisa) | Aplicação nativa para macOS com sons ambientes, Pomodoro, rotinas e controles na barra de menus, desenvolvida com Swift e SwiftUI. |
+| [VolumeLab / MasterTraining](https://github.com/alexandre-wayss/MasterTraining) | Aplicação em React e TypeScript para planejar treinos, registrar séries e acompanhar o histórico, com persistência local no navegador. |
+| [PI-LilyGO-Sensores](https://github.com/alexandre-wayss/PI-LilyGO-Sensores) | Projeto acadêmico com ESP32, leitura de temperatura e umidade, display OLED e envio de dados por LoRaWAN. |
 
-```swift
-struct Developer {
-    let name = "Alexandre Wayss"
-    let role = "Software Developer"
+## Próximas etapas: backend, Cloud e SRE
 
-    let education = [
-        "Computer Science — UNIJUÍ, 5th semester",
-        "Internet Computing Technician — CTISM, 2021–2023"
-    ]
+Meu [roadmap](https://github.com/alexandre-wayss/engineering-roadmap) organiza a evolução por etapas. **As tecnologias abaixo são objetivos de estudo e aplicação futura.**
 
-    let focus = [
-        "Kotlin",
-        "Software Development",
-        "Backend Development",
-        "Mobile Development"
-    ]
+1. **Base em Java:** orientação a objetos, collections, exceções, arquivos e ferramentas de qualidade, como Maven e JUnit.
+2. **Backend:** fundamentos de redes, APIs com Spring Boot e persistência com PostgreSQL.
+3. **Infraestrutura e Cloud:** Docker, AWS, Terraform e automação de entrega com CI/CD.
+4. **Confiabilidade:** Python para automação, observabilidade, práticas de SRE e Kubernetes.
 
-    let currentlyLearning = [
-        "Swift"
-    ]
+Quero transformar cada etapa em entregas práticas: aplicações documentadas, testes e, conforme avançar, implantação e monitoramento em nuvem.
 
-    let goal = "Internship or Junior Software Developer opportunity"
-}
-```
+## Objetivo profissional
 
-I am a Computer Science student focused on building a strong foundation in software development and modern engineering practices.
+Busco uma oportunidade de **estágio ou desenvolvimento júnior**, com interesse especial em backend Java e espaço para aprender com revisão de código e trabalho em equipe. Meu objetivo de longo prazo é conectar desenvolvimento de software, infraestrutura e confiabilidade de sistemas.
 
-My current technical focus is **Kotlin**, while I am also expanding my knowledge into **Swift** and the Apple development ecosystem.
+**Como estudo:** estudar → praticar → implementar → documentar → revisar.
 
-I enjoy learning how software is structured beyond the interface — from application logic and databases to tooling, development workflows, and maintainable code.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=kotlin,swift&theme=dark" alt="Kotlin and Swift" />
-
-<br/><br/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
-
-</div>
-
----
-
-## Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,docker,postman,idea&theme=dark" alt="Git, Docker, Postman and IntelliJ IDEA" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Zed-111111?style=for-the-badge&logo=zedindustries&logoColor=FF453A" alt="Zed" />
-<img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=FF453A" alt="Claude Code" />
-<img src="https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=FF453A" alt="OpenAI Codex" />
-
-</div>
-
----
-
-## Education
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Computer Science</h3>
-      <p><strong>UNIJUÍ</strong></p>
-      <p>Currently in the 5th semester.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Internet Computing Technician</h3>
-      <p><strong>CTISM</strong></p>
-      <p>Technical education completed between 2021 and 2023.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Current Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Kotlin-Main%20Focus-111111?style=for-the-badge&logo=kotlin&logoColor=FF453A" alt="Kotlin main focus" />
-<img src="https://img.shields.io/badge/Swift-Learning-111111?style=for-the-badge&logo=swift&logoColor=FF453A" alt="Learning Swift" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database-111111?style=for-the-badge&logo=postgresql&logoColor=FF453A" alt="PostgreSQL" />
-
-</div>
-
-<br/>
-
-- Deepening my knowledge of **Kotlin**
-- Learning **Swift**
-- Improving software architecture and development fundamentals
-- Practicing modern development workflows with **Git** and **Docker**
-- Preparing for **Internship** and **Junior Software Developer** opportunities
-
----
-
-## GitHub Analytics
-
-## GitHub Analytics
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandre-wayss&theme=github_dark"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandre-wayss&theme=github_dark"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br/>
-
-
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alexandre-wayss-181330266/">
-  <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Wayss-111111?style=for-the-badge&logo=linkedin&logoColor=FF453A" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/alexandre-wayss">
-  <img src="https://img.shields.io/badge/GitHub-alexandre--wayss-111111?style=for-the-badge&logo=github&logoColor=FF453A" alt="GitHub" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:2A0909,100:FF453A" width="100%" alt="Footer" />
-
-<sub>Designed with a clean, futuristic and minimal aesthetic.</sub>
-
-</div>
+Para conversar sobre projetos e oportunidades, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alexandre-wayss-181330266/).
