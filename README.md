@@ -1,58 +1,242 @@
-# Alexandre Wayss
+<!-- =========================================================
+  Alexandre Wayss — GitHub Profile README
+  Style: Apple-inspired futuristic / dark / red accent
+========================================================= -->
 
-**Estudante de Ciência da Computação | Foco em desenvolvimento backend Java**
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/alexandre-wayss-181330266/) · [Roadmap de estudos](https://github.com/alexandre-wayss/engineering-roadmap) · [Exercícios Java](https://github.com/alexandre-wayss/java-exercises)
+<img src="./assets/banner.gif" width="100%" alt="Banner animado de Alexandre Wayss" />
 
-Sou estudante de Ciência da Computação na **UNIJUÍ** e técnico em Informática para Internet pelo **CTISM (2021–2023)**. Estou construindo uma base sólida em Java e engenharia de software, com o objetivo de desenvolver aplicações backend e avançar, gradualmente, para **AWS, infraestrutura em nuvem e SRE**.
+<br/>
 
-Minha jornada combina estudos documentados, exercícios e projetos pessoais e acadêmicos. Além do foco atual em Java, desenvolvo aplicações web e desktop que me permitem praticar organização de código, persistência de dados e manutenção de funcionalidades.
+<img
+  src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=24&duration=2800&pause=900&color=FF453A&center=true&vCenter=true&width=900&lines=Alexandre+Wayss;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Backend+Java;Jornada+em+AWS%2C+Cloud+e+SRE"
+  alt="Alexandre Wayss — estudante com foco em backend Java e uma jornada em Cloud e SRE"
+/>
 
-## Foco atual
+<br/>
 
-- Consolidar os fundamentos de **Java**: tipos de dados, operadores, condicionais, repetição e métodos.
-- Avançar em arrays e strings, construir uma aplicação de terminal integradora e seguir para orientação a objetos.
-- Estudar **Linux** como parte da base para backend e infraestrutura.
-- Registrar o aprendizado em anotações e exercícios, acompanhando a evolução com Git, GitHub e o roadmap.
+<a href="https://github.com/alexandre-wayss">
+  <img src="https://img.shields.io/badge/GitHub-alexandre--wayss-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/alexandre-wayss-181330266/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-111111?style=for-the-badge&logo=linkedin&logoColor=FF453A" alt="LinkedIn" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## Sobre mim
+
+```java
+class Desenvolvedor {
+    String nome = "Alexandre Wayss";
+    String formacao = "Ciência da Computação — UNIJUÍ";
+
+    String[] focoAtual = { "Fundamentos de Java", "Linux", "Backend" };
+    String[] objetivos = { "AWS", "Cloud e Infraestrutura", "SRE" };
+
+    String oportunidade = "Estágio ou Desenvolvimento Júnior";
+}
+```
+
+Sou estudante de **Ciência da Computação na UNIJUÍ** e técnico em **Informática para Internet pelo CTISM**. Estou construindo uma base sólida em Java e engenharia de software, com foco em desenvolvimento backend.
+
+Minha jornada combina **estudos documentados, exercícios e projetos pessoais e acadêmicos**. Também desenvolvo aplicações web e desktop, praticando organização de código, persistência e manutenção de funcionalidades.
+
+Quero evoluir do desenvolvimento de aplicações para **AWS, infraestrutura em nuvem e confiabilidade de sistemas**, seguindo as etapas do meu [engineering-roadmap](https://github.com/alexandre-wayss/engineering-roadmap).
+
+---
 
 ## Tecnologias na prática
 
-Estas tecnologias aparecem nos meus exercícios e projetos, em diferentes níveis de aprofundamento:
+<div align="center">
 
-| Contexto | Tecnologias e ferramentas utilizadas |
-| --- | --- |
-| Estudos de Java | Java, IntelliJ IDEA, Git e GitHub |
-| Aplicações web | JavaScript, TypeScript, React, Vite, HTML e CSS |
-| Aplicações desktop | Electron no masterStudy; Swift e SwiftUI no Brisa |
-| Persistência e integração | localStorage no VolumeLab; integração com Supabase no masterStudy |
-| Projeto acadêmico de IoT | C++ com Arduino, ESP32, sensor DHT22 e LoRaWAN |
+### Linguagens
 
-## Projetos e estudos em destaque
+<img src="https://skillicons.dev/icons?i=java,js,ts,swift,cpp&theme=dark" alt="Java, JavaScript, TypeScript, Swift e C++" />
 
-| Repositório | O que estou construindo ou praticando |
-| --- | --- |
-| [java-exercises](https://github.com/alexandre-wayss/java-exercises) | Exercícios de fundamentos de Java, incluindo terminal bancário, simulador financeiro e cálculo de folha. A prática publicada está concentrada no módulo de fundamentos. |
-| [engineering-roadmap](https://github.com/alexandre-wayss/engineering-roadmap) | Plano de estudos de engenharia de software, backend, Cloud e SRE, com trilha de Java, anotações e links para exercícios. |
-| [masterStudy](https://github.com/masterCorehub/masterStudy) | Aplicação web e desktop para organizar disciplinas, tarefas, livros, notas e revisões. Utiliza React, Vite e Electron, com integração com Supabase e ferramentas de estudo com IA. |
-| [Brisa](https://github.com/masterCorehub/brisa) | Aplicação nativa para macOS com sons ambientes, Pomodoro, rotinas e controles na barra de menus, desenvolvida com Swift e SwiftUI. |
-| [VolumeLab / MasterTraining](https://github.com/alexandre-wayss/MasterTraining) | Aplicação em React e TypeScript para planejar treinos, registrar séries e acompanhar o histórico, com persistência local no navegador. |
-| [PI-LilyGO-Sensores](https://github.com/alexandre-wayss/PI-LilyGO-Sensores) | Projeto acadêmico com ESP32, leitura de temperatura e umidade, display OLED e envio de dados por LoRaWAN. |
+<br/><br/>
 
-## Próximas etapas: backend, Cloud e SRE
+### Web e desktop
 
-Meu [roadmap](https://github.com/alexandre-wayss/engineering-roadmap) organiza a evolução por etapas. **As tecnologias abaixo são objetivos de estudo e aplicação futura.**
+<img src="https://skillicons.dev/icons?i=react,vite,electron,supabase&theme=dark" alt="React, Vite, Electron e Supabase" />
 
-1. **Base em Java:** orientação a objetos, collections, exceções, arquivos e ferramentas de qualidade, como Maven e JUnit.
-2. **Backend:** fundamentos de redes, APIs com Spring Boot e persistência com PostgreSQL.
-3. **Infraestrutura e Cloud:** Docker, AWS, Terraform e automação de entrega com CI/CD.
-4. **Confiabilidade:** Python para automação, observabilidade, práticas de SRE e Kubernetes.
+</div>
 
-Quero transformar cada etapa em entregas práticas: aplicações documentadas, testes e, conforme avançar, implantação e monitoramento em nuvem.
+<br/>
 
-## Objetivo profissional
+- **Java:** exercícios de fundamentos, com operadores, condicionais, repetição e métodos.
+- **React, JavaScript e TypeScript:** aplicações web, como masterStudy e VolumeLab.
+- **Electron e Supabase:** aplicação desktop e integração de dados no masterStudy.
+- **Swift e SwiftUI:** desenvolvimento nativo para macOS no Brisa.
+- **C++ / Arduino:** projeto acadêmico com ESP32, DHT22 e LoRaWAN.
 
-Busco uma oportunidade de **estágio ou desenvolvimento júnior**, com interesse especial em backend Java e espaço para aprender com revisão de código e trabalho em equipe. Meu objetivo de longo prazo é conectar desenvolvimento de software, infraestrutura e confiabilidade de sistemas.
+Estas tecnologias fazem parte dos meus projetos em **diferentes níveis de aprofundamento**.
+
+---
+
+## Ferramentas de desenvolvimento
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,idea&theme=dark" alt="Git, GitHub e IntelliJ IDEA" />
+
+</div>
+
+<br/>
+
+Uso **Git e GitHub** para versionar projetos e acompanhar os estudos, e **IntelliJ IDEA** na prática com Java.
+
+---
+
+## Formação
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Ciência da Computação</h3>
+      <p><strong>UNIJUÍ</strong></p>
+      <p>Graduação em andamento.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Informática para Internet</h3>
+      <p><strong>CTISM</strong></p>
+      <p>Formação técnica concluída entre 2021 e 2023.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Foco atual
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Foco%20Atual-111111?style=for-the-badge&logo=openjdk&logoColor=FF453A" alt="Java — foco atual" />
+<img src="https://img.shields.io/badge/Linux-Em%20Estudo-111111?style=for-the-badge&logo=linux&logoColor=FF453A" alt="Linux — em estudo" />
+
+</div>
+
+<br/>
+
+- Consolidar os **fundamentos de Java** e avançar em arrays e strings.
+- Construir uma **aplicação de terminal integradora** antes de seguir para orientação a objetos.
+- Estudar **Linux** como base para backend e infraestrutura.
+- Registrar anotações, exercícios e evolução no **roadmap de estudos**.
+- Preparar-me para oportunidades de **estágio e desenvolvimento júnior**, com interesse em backend Java.
 
 **Como estudo:** estudar → praticar → implementar → documentar → revisar.
 
-Para conversar sobre projetos e oportunidades, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/alexandre-wayss-181330266/).
+---
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alexandre-wayss/java-exercises">Java Exercises</a></h3>
+      <p>Prática de fundamentos de Java: terminal bancário, simulador financeiro e cálculo de folha.</p>
+      <p><sub>Java · Exercícios e aprendizado</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alexandre-wayss/engineering-roadmap">Engineering Roadmap</a></h3>
+      <p>Minha trilha de engenharia de software, backend, Cloud e SRE, com anotações e links para exercícios.</p>
+      <p><sub>Estudos · Planejamento · Evolução</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/masterCorehub/masterStudy">masterStudy</a></h3>
+      <p>Aplicação web e desktop para organizar disciplinas, tarefas, livros, notas e revisões, com ferramentas de estudo com IA.</p>
+      <p><sub>React · Vite · Electron · Supabase</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/masterCorehub/brisa">Brisa</a></h3>
+      <p>Aplicação nativa para macOS com sons ambientes, Pomodoro, rotinas e controles na barra de menus.</p>
+      <p><sub>Swift · SwiftUI · macOS</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alexandre-wayss/MasterTraining">VolumeLab / MasterTraining</a></h3>
+      <p>Planejamento de treinos, registro de séries e acompanhamento do histórico, com persistência local no navegador.</p>
+      <p><sub>React · TypeScript · Vite · localStorage</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alexandre-wayss/PI-LilyGO-Sensores">PI-LilyGO-Sensores</a></h3>
+      <p>Projeto acadêmico de leitura de temperatura e umidade com ESP32, display OLED e envio de dados por LoRaWAN.</p>
+      <p><sub>C++ · Arduino · ESP32 · IoT</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Próximas etapas — Backend, Cloud e SRE
+
+Os próximos passos do meu [roadmap](https://github.com/alexandre-wayss/engineering-roadmap) são **objetivos de estudo e aplicação futura**:
+
+| Etapa | Direção de aprendizado |
+| --- | --- |
+| Java | Orientação a objetos, collections, exceções, Maven e JUnit |
+| Backend | Redes, APIs com Spring Boot e persistência com PostgreSQL |
+| Cloud e infraestrutura | Docker, AWS, Terraform e CI/CD |
+| Confiabilidade | Python para automação, observabilidade, SRE e Kubernetes |
+
+Quero transformar esse aprendizado em **aplicações documentadas, testes e, conforme avançar, implantação e monitoramento em nuvem**.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandre-wayss&theme=github_dark"
+  alt="Estatísticas do GitHub"
+/>
+<img
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandre-wayss&theme=github_dark"
+  alt="Linguagens presentes nos repositórios"
+/>
+
+</div>
+
+<br/>
+
+---
+
+## Vamos conversar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alexandre-wayss-181330266/">
+  <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Wayss-111111?style=for-the-badge&logo=linkedin&logoColor=FF453A" alt="LinkedIn de Alexandre Wayss" />
+</a>
+<a href="https://github.com/alexandre-wayss">
+  <img src="https://img.shields.io/badge/GitHub-alexandre--wayss-111111?style=for-the-badge&logo=github&logoColor=FF453A" alt="GitHub de Alexandre Wayss" />
+</a>
+
+<br/><br/>
+
+<sub>Buscando uma oportunidade de estágio ou desenvolvimento júnior com foco em backend Java.</sub>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:2A0909,100:FF453A" width="100%" alt="Rodapé em tons de vermelho" />
+
+<sub>Aprendizado contínuo. Projetos na prática. Evolução documentada.</sub>
+
+</div>
