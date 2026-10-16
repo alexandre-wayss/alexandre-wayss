@@ -10,8 +10,8 @@
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=24&duration=2800&pause=900&color=FF453A&center=true&vCenter=true&width=900&lines=Alexandre+Wayss;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Backend+Java;Jornada+em+AWS%2C+Cloud+e+SRE"
-  alt="Alexandre Wayss — estudante com foco em backend Java e uma jornada em Cloud e SRE"
+  src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=24&duration=2800&pause=900&color=FF453A&center=true&vCenter=true&width=900&lines=Alexandre+Wayss;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+React;Estudando+Java%2C+AWS%2C+Cloud+e+SRE"
+  alt="Alexandre Wayss — desenvolvedor React, estudando Java, AWS, Cloud e Infraestrutura e SRE"
 />
 
 <br/>
@@ -36,18 +36,18 @@ class Desenvolvedor {
     String nome = "Alexandre Wayss";
     String formacao = "Ciência da Computação — UNIJUÍ";
 
-    String[] focoAtual = { "Fundamentos de Java", "Linux", "Backend" };
-    String[] objetivos = { "AWS", "Cloud e Infraestrutura", "SRE" };
+    String atuacao = "Desenvolvedor React";
+    String[] estudos = { "Java", "Linux", "AWS", "Cloud e Infraestrutura", "SRE" };
 
     String oportunidade = "Estágio ou Desenvolvimento Júnior";
 }
 ```
 
-Sou estudante de **Ciência da Computação na UNIJUÍ** e técnico em **Informática para Internet pelo CTISM**. Estou construindo uma base sólida em Java e engenharia de software, com foco em desenvolvimento backend.
+Sou **desenvolvedor React**, estudante de **Ciência da Computação na UNIJUÍ** e técnico em **Informática para Internet pelo CTISM**. Desenvolvo aplicações web com React, JavaScript e TypeScript, com atenção à organização do código, à experiência de uso e à integração com APIs.
 
-Minha jornada combina **estudos documentados, exercícios e projetos pessoais e acadêmicos**. Também desenvolvo aplicações web e desktop, praticando organização de código, persistência e manutenção de funcionalidades.
+Minha jornada combina **projetos pessoais e acadêmicos, prática e estudos documentados**. Também desenvolvo aplicações desktop e estou estudando **Java, AWS, Cloud e Infraestrutura e SRE**, aprofundando esses conhecimentos de forma gradual.
 
-Quero evoluir do desenvolvimento de aplicações para **AWS, infraestrutura em nuvem e confiabilidade de sistemas**, seguindo as etapas do meu [engineering-roadmap](https://github.com/alexandre-wayss/engineering-roadmap).
+Meu objetivo é ampliar minha atuação com **backend Java, infraestrutura em nuvem e confiabilidade de sistemas**, seguindo as etapas do meu [engineering-roadmap](https://github.com/alexandre-wayss/engineering-roadmap).
 
 ---
 
@@ -69,8 +69,8 @@ Quero evoluir do desenvolvimento de aplicações para **AWS, infraestrutura em n
 
 <br/>
 
-- **Java:** exercícios de fundamentos, com operadores, condicionais, repetição e métodos.
-- **React, JavaScript e TypeScript:** aplicações web, como masterStudy e VolumeLab.
+- **React, JavaScript e TypeScript:** desenvolvimento de aplicações web, como Appetit e masterStudy.
+- **Java em estudo:** prática de fundamentos, com operadores, condicionais, repetição e métodos.
 - **Electron e Supabase:** aplicação desktop e integração de dados no masterStudy.
 - **Swift e SwiftUI:** desenvolvimento nativo para macOS no Brisa.
 - **C++ / Arduino:** projeto acadêmico com ESP32, DHT22 e LoRaWAN.
@@ -116,18 +116,21 @@ Uso **Git e GitHub** para versionar projetos e acompanhar os estudos, e **Intell
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-Foco%20Atual-111111?style=for-the-badge&logo=openjdk&logoColor=FF453A" alt="Java — foco atual" />
+<img src="https://img.shields.io/badge/React-Desenvolvimento-111111?style=for-the-badge&logo=react&logoColor=FF453A" alt="React — desenvolvimento" />
+<img src="https://img.shields.io/badge/Java-Em%20Estudo-111111?style=for-the-badge&logo=openjdk&logoColor=FF453A" alt="Java — em estudo" />
 <img src="https://img.shields.io/badge/Linux-Em%20Estudo-111111?style=for-the-badge&logo=linux&logoColor=FF453A" alt="Linux — em estudo" />
 
 </div>
 
 <br/>
 
+- Desenvolver e aprimorar **aplicações com React**, praticando componentes reutilizáveis, gerenciamento de estado e integração com APIs.
 - Consolidar os **fundamentos de Java** e avançar em arrays e strings.
 - Construir uma **aplicação de terminal integradora** antes de seguir para orientação a objetos.
 - Estudar **Linux** como base para backend e infraestrutura.
+- Estudar **AWS, Cloud e Infraestrutura e SRE**, seguindo uma trilha gradual de fundamentos e aplicação prática.
 - Registrar anotações, exercícios e evolução no **roadmap de estudos**.
-- Preparar-me para oportunidades de **estágio e desenvolvimento júnior**, com interesse em backend Java.
+- Preparar-me para oportunidades de **estágio e desenvolvimento júnior**, com foco em React e evolução em backend Java.
 
 **Como estudo:** estudar → praticar → implementar → documentar → revisar.
 
@@ -138,9 +141,9 @@ Uso **Git e GitHub** para versionar projetos e acompanhar os estudos, e **Intell
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/alexandre-wayss/java-exercises">Java Exercises</a></h3>
-      <p>Prática de fundamentos de Java: terminal bancário, simulador financeiro e cálculo de folha.</p>
-      <p><sub>Java · Exercícios e aprendizado</sub></p>
+      <h3><a href="https://github.com/so-fmcs/appetit">Appetit</a></h3>
+      <p>Projeto acadêmico em grupo de um bistrô francês fictício, com cardápio, carrinho, checkout e acompanhamento de pedidos integrado a uma API.</p>
+      <p><sub>React · JavaScript · Vite · Tailwind CSS · Integração com API</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/alexandre-wayss/engineering-roadmap">Engineering Roadmap</a></h3>
@@ -158,18 +161,6 @@ Uso **Git e GitHub** para versionar projetos e acompanhar os estudos, e **Intell
       <h3><a href="https://github.com/masterCorehub/brisa">Brisa</a></h3>
       <p>Aplicação nativa para macOS com sons ambientes, Pomodoro, rotinas e controles na barra de menus.</p>
       <p><sub>Swift · SwiftUI · macOS</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/alexandre-wayss/MasterTraining">VolumeLab / MasterTraining</a></h3>
-      <p>Planejamento de treinos, registro de séries e acompanhamento do histórico, com persistência local no navegador.</p>
-      <p><sub>React · TypeScript · Vite · localStorage</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/alexandre-wayss/PI-LilyGO-Sensores">PI-LilyGO-Sensores</a></h3>
-      <p>Projeto acadêmico de leitura de temperatura e umidade com ESP32, display OLED e envio de dados por LoRaWAN.</p>
-      <p><sub>C++ · Arduino · ESP32 · IoT</sub></p>
     </td>
   </tr>
 </table>
@@ -225,7 +216,7 @@ Quero transformar esse aprendizado em **aplicações documentadas, testes e, con
 
 <br/><br/>
 
-<sub>Buscando uma oportunidade de estágio ou desenvolvimento júnior com foco em backend Java.</sub>
+<sub>Buscando uma oportunidade de estágio ou desenvolvimento júnior com foco em React, enquanto aprofundo meus estudos em Java, AWS, Cloud e Infraestrutura e SRE.</sub>
 
 </div>
 
