@@ -5,13 +5,13 @@
 
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Alexandre Wayss animated banner" />
+<img src="./assets/banner.gif" width="100%" alt="Banner animado de Alexandre Wayss" />
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=24&duration=2800&pause=900&color=FF453A&center=true&vCenter=true&width=900&lines=Alexandre+Wayss;Software+Developer;Computer+Science+Student;Kotlin+Developer;Currently+learning+Swift"
-  alt="Typing animation"
+  src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=24&duration=2800&pause=900&color=FF453A&center=true&vCenter=true&width=900&lines=Alexandre+Wayss;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Backend+Java;Jornada+em+AWS%2C+Cloud+e+SRE"
+  alt="Alexandre Wayss — estudante com foco em backend Java e uma jornada em Cloud e SRE"
 />
 
 <br/>
@@ -19,9 +19,8 @@
 <a href="https://github.com/alexandre-wayss">
   <img src="https://img.shields.io/badge/GitHub-alexandre--wayss-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 <a href="https://www.linkedin.com/in/alexandre-wayss-181330266/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FF453A" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-111111?style=for-the-badge&logo=linkedin&logoColor=FF453A" alt="LinkedIn" />
 </a>
 
 </div>
@@ -30,115 +29,167 @@
 
 ---
 
-## About Me
+## Sobre mim
 
-```swift
-struct Developer {
-    let name = "Alexandre Wayss"
-    let role = "Software Developer"
+```java
+class Desenvolvedor {
+    String nome = "Alexandre Wayss";
+    String formacao = "Ciência da Computação — UNIJUÍ";
 
-    let education = [
-        "Computer Science — UNIJUÍ, 5th semester",
-        "Internet Computing Technician — CTISM, 2021–2023"
-    ]
+    String[] focoAtual = { "Fundamentos de Java", "Linux", "Backend" };
+    String[] objetivos = { "AWS", "Cloud e Infraestrutura", "SRE" };
 
-    let focus = [
-        "Kotlin",
-        "Software Development",
-        "Backend Development",
-        "Mobile Development"
-    ]
-
-    let currentlyLearning = [
-        "Swift"
-    ]
-
-    let goal = "Internship or Junior Software Developer opportunity"
+    String oportunidade = "Estágio ou Desenvolvimento Júnior";
 }
 ```
 
-I am a Computer Science student focused on building a strong foundation in software development and modern engineering practices.
+Sou estudante de **Ciência da Computação na UNIJUÍ** e técnico em **Informática para Internet pelo CTISM**. Estou construindo uma base sólida em Java e engenharia de software, com foco em desenvolvimento backend.
 
-My current technical focus is **Kotlin**, while I am also expanding my knowledge into **Swift** and the Apple development ecosystem.
+Minha jornada combina **estudos documentados, exercícios e projetos pessoais e acadêmicos**. Também desenvolvo aplicações web e desktop, praticando organização de código, persistência e manutenção de funcionalidades.
 
-I enjoy learning how software is structured beyond the interface — from application logic and databases to tooling, development workflows, and maintainable code.
+Quero evoluir do desenvolvimento de aplicações para **AWS, infraestrutura em nuvem e confiabilidade de sistemas**, seguindo as etapas do meu [engineering-roadmap](https://github.com/alexandre-wayss/engineering-roadmap).
 
 ---
 
-## Tech Stack
+## Tecnologias na prática
 
 <div align="center">
 
-### Languages
+### Linguagens
 
-<img src="https://skillicons.dev/icons?i=kotlin,swift&theme=dark" alt="Kotlin and Swift" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,swift,cpp&theme=dark" alt="Java, JavaScript, TypeScript, Swift e C++" />
 
 <br/><br/>
 
-### Database
+### Web e desktop
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=react,vite,electron,supabase&theme=dark" alt="React, Vite, Electron e Supabase" />
 
 </div>
 
+<br/>
+
+- **Java:** exercícios de fundamentos, com operadores, condicionais, repetição e métodos.
+- **React, JavaScript e TypeScript:** aplicações web, como masterStudy e VolumeLab.
+- **Electron e Supabase:** aplicação desktop e integração de dados no masterStudy.
+- **Swift e SwiftUI:** desenvolvimento nativo para macOS no Brisa.
+- **C++ / Arduino:** projeto acadêmico com ESP32, DHT22 e LoRaWAN.
+
+Estas tecnologias fazem parte dos meus projetos em **diferentes níveis de aprofundamento**.
+
 ---
 
-## Development Tools
+## Ferramentas de desenvolvimento
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,docker,postman,idea&theme=dark" alt="Git, Docker, Postman and IntelliJ IDEA" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Zed-111111?style=for-the-badge&logo=zedindustries&logoColor=FF453A" alt="Zed" />
-<img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=FF453A" alt="Claude Code" />
-<img src="https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=FF453A" alt="OpenAI Codex" />
+<img src="https://skillicons.dev/icons?i=git,github,idea&theme=dark" alt="Git, GitHub e IntelliJ IDEA" />
 
 </div>
 
+<br/>
+
+Uso **Git e GitHub** para versionar projetos e acompanhar os estudos, e **IntelliJ IDEA** na prática com Java.
+
 ---
 
-## Education
+## Formação
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Computer Science</h3>
+      <h3>Ciência da Computação</h3>
       <p><strong>UNIJUÍ</strong></p>
-      <p>Currently in the 5th semester.</p>
+      <p>Graduação em andamento.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Internet Computing Technician</h3>
+      <h3>Informática para Internet</h3>
       <p><strong>CTISM</strong></p>
-      <p>Technical education completed between 2021 and 2023.</p>
+      <p>Formação técnica concluída entre 2021 e 2023.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Current Focus
+## Foco atual
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kotlin-Main%20Focus-111111?style=for-the-badge&logo=kotlin&logoColor=FF453A" alt="Kotlin main focus" />
-<img src="https://img.shields.io/badge/Swift-Learning-111111?style=for-the-badge&logo=swift&logoColor=FF453A" alt="Learning Swift" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database-111111?style=for-the-badge&logo=postgresql&logoColor=FF453A" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Java-Foco%20Atual-111111?style=for-the-badge&logo=openjdk&logoColor=FF453A" alt="Java — foco atual" />
+<img src="https://img.shields.io/badge/Linux-Em%20Estudo-111111?style=for-the-badge&logo=linux&logoColor=FF453A" alt="Linux — em estudo" />
 
 </div>
 
 <br/>
 
-- Deepening my knowledge of **Kotlin**
-- Learning **Swift**
-- Improving software architecture and development fundamentals
-- Practicing modern development workflows with **Git** and **Docker**
-- Preparing for **Internship** and **Junior Software Developer** opportunities
+- Consolidar os **fundamentos de Java** e avançar em arrays e strings.
+- Construir uma **aplicação de terminal integradora** antes de seguir para orientação a objetos.
+- Estudar **Linux** como base para backend e infraestrutura.
+- Registrar anotações, exercícios e evolução no **roadmap de estudos**.
+- Preparar-me para oportunidades de **estágio e desenvolvimento júnior**, com interesse em backend Java.
+
+**Como estudo:** estudar → praticar → implementar → documentar → revisar.
 
 ---
 
-## GitHub Analytics
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alexandre-wayss/java-exercises">Java Exercises</a></h3>
+      <p>Prática de fundamentos de Java: terminal bancário, simulador financeiro e cálculo de folha.</p>
+      <p><sub>Java · Exercícios e aprendizado</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alexandre-wayss/engineering-roadmap">Engineering Roadmap</a></h3>
+      <p>Minha trilha de engenharia de software, backend, Cloud e SRE, com anotações e links para exercícios.</p>
+      <p><sub>Estudos · Planejamento · Evolução</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/masterCorehub/masterStudy">masterStudy</a></h3>
+      <p>Aplicação web e desktop para organizar disciplinas, tarefas, livros, notas e revisões, com ferramentas de estudo com IA.</p>
+      <p><sub>React · Vite · Electron · Supabase</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/masterCorehub/brisa">Brisa</a></h3>
+      <p>Aplicação nativa para macOS com sons ambientes, Pomodoro, rotinas e controles na barra de menus.</p>
+      <p><sub>Swift · SwiftUI · macOS</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alexandre-wayss/MasterTraining">VolumeLab / MasterTraining</a></h3>
+      <p>Planejamento de treinos, registro de séries e acompanhamento do histórico, com persistência local no navegador.</p>
+      <p><sub>React · TypeScript · Vite · localStorage</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alexandre-wayss/PI-LilyGO-Sensores">PI-LilyGO-Sensores</a></h3>
+      <p>Projeto acadêmico de leitura de temperatura e umidade com ESP32, display OLED e envio de dados por LoRaWAN.</p>
+      <p><sub>C++ · Arduino · ESP32 · IoT</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Próximas etapas — Backend, Cloud e SRE
+
+Os próximos passos do meu [roadmap](https://github.com/alexandre-wayss/engineering-roadmap) são **objetivos de estudo e aplicação futura**:
+
+| Etapa | Direção de aprendizado |
+| --- | --- |
+| Java | Orientação a objetos, collections, exceções, Maven e JUnit |
+| Backend | Redes, APIs com Spring Boot e persistência com PostgreSQL |
+| Cloud e infraestrutura | Docker, AWS, Terraform e CI/CD |
+| Confiabilidade | Python para automação, observabilidade, SRE e Kubernetes |
+
+Quero transformar esse aprendizado em **aplicações documentadas, testes e, conforme avançar, implantação e monitoramento em nuvem**.
+
+---
 
 ## GitHub Analytics
 
@@ -147,34 +198,34 @@ I enjoy learning how software is structured beyond the interface — from applic
 <img
   height="180"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandre-wayss&theme=github_dark"
-  alt="GitHub Stats"
+  alt="Estatísticas do GitHub"
 />
-
 <img
   height="180"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandre-wayss&theme=github_dark"
-  alt="Top Languages"
+  alt="Linguagens presentes nos repositórios"
 />
 
 </div>
 
 <br/>
 
-
-
 ---
 
-## Connect
+## Vamos conversar
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alexandre-wayss-181330266/">
-  <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Wayss-111111?style=for-the-badge&logo=linkedin&logoColor=FF453A" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Wayss-111111?style=for-the-badge&logo=linkedin&logoColor=FF453A" alt="LinkedIn de Alexandre Wayss" />
+</a>
+<a href="https://github.com/alexandre-wayss">
+  <img src="https://img.shields.io/badge/GitHub-alexandre--wayss-111111?style=for-the-badge&logo=github&logoColor=FF453A" alt="GitHub de Alexandre Wayss" />
 </a>
 
-<a href="https://github.com/alexandre-wayss">
-  <img src="https://img.shields.io/badge/GitHub-alexandre--wayss-111111?style=for-the-badge&logo=github&logoColor=FF453A" alt="GitHub" />
-</a>
+<br/><br/>
+
+<sub>Buscando uma oportunidade de estágio ou desenvolvimento júnior com foco em backend Java.</sub>
 
 </div>
 
@@ -184,8 +235,8 @@ I enjoy learning how software is structured beyond the interface — from applic
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:2A0909,100:FF453A" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:2A0909,100:FF453A" width="100%" alt="Rodapé em tons de vermelho" />
 
-<sub>Designed with a clean, futuristic and minimal aesthetic.</sub>
+<sub>Aprendizado contínuo. Projetos na prática. Evolução documentada.</sub>
 
 </div>
